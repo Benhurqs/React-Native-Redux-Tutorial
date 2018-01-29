@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-var { View, Text } = require('react-native');
+var { View, Text, StyleSheet } = require('react-native');
 
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
+import CustomListview from '../components/CustomListview'
 
 import * as Actions from '../actions';
 
@@ -13,6 +14,7 @@ class Home extends Component {
         console.log(this.props.data);
     }
 
+    
     render() {
         if (this.props.loading) {
             return (
@@ -22,8 +24,10 @@ class Home extends Component {
             );
         } else {
             return (
-                <View>
-                   <Text>{this.props.data[1].title}</Text>
+                <View style={styles.container}>
+                    <CustomListview 
+                        itemList={this.props.data}
+                    />
                 </View>
             );
         }
@@ -41,5 +45,12 @@ function mapStateToProps(state, props) {
 function mapDispatchToProps(dispatch) {
     return bindActionCreators(Actions, dispatch);
 }
+
+const styles = StyleSheet.create({
+    container: {
+      flex: 1,
+      backgroundColor: '#FCFCFC',
+    }
+  });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Home);

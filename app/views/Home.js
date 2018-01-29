@@ -10,7 +10,7 @@ import * as Actions from '../actions';
 class Home extends Component {
 
     componentDidMount() {
-        this.props.getData(); //call our action
+        this.props.getDiscography(); //call our action
         console.log(this.props.data);
     }
 

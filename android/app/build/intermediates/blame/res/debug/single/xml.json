@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/xml/preferences.xml"
+    }
+]

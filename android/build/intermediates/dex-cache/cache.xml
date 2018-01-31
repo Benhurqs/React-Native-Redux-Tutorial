@@ -3,309 +3,192 @@
 
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_1f9041cc97b39c16c92e8990f78d09be38b2f107.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_6272c9adc05e09adb30e6c3750a239383b263289.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_229464a69c6c5a5da6e6c121d6506be385ec9c0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4fde563b3c18713e8c336f6d9473347fb5aadb7b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_74d3cb13942628793432592093fc7677f1594b6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_baeb3663318fd69b16ca6e4341b2369814cf838a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1cf6053daaef53d3a30642e49804ca64514ccab3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e75ceea79d520edfeee40b4cc74c34d39069af65.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_97ab1614e2ef877aeb6c9a0f31609918f8fc4b24.jar" />
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6e2984817abc3cba024e8d276bdf26d0a7159ec3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b3fe6e1f9e52897b58e9347e9509d6209aa8dd9a.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_3c57699988b0dd6cd3f64e28c414e4249948aa3b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_feddd04702f57cc84bef08d808755c3934850eaa.jar" />
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_053dae92b14c12548b3694443e6fb5e02827fc31.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_305bf8b9938c4926ade6afa80253d2e008a077a4.jar" />
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e79a430d9c3433409b8e1d7f1349a2c209ffe8ca.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_930e2de8e03a655e76f7eb4d34fe884ad8b2352e.jar" />
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_41cf8b696599f6a403ac59103d05f100b2175553.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_7de7f63a07c562bffb3d76b857b2f758bd33d41f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6abcb6f6d0fa66dbd8bc0832f7831fed49b6820c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b54f31de15f576cce92fcfc061087a9333463dac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_54a24763a9ae0eef0e3c24ab1f1850da35de509c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_0d005621f4fb78801b459d965300e326f30b86f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6bea65084a51c531af7da5f88fdc983aadd9332a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_33f581942e93fc81c6e36f37d994f14f51e7da91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f2682c32be4d505ba749e9646d6901dbfd4c028a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_258c6626aa5623e60c8e69e93b8ff5c1e4bffb36.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_d1493eaefc5534b4369a4026127ddb4abd44a0ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3f22facf4d606244a8c6789051436df16f01e13c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_243740db60521a1504f2839ea3f7026e5a2c368d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e0c8e0064bab587fb8001538fed9835581730342.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_10875ffc5cde56b1c5960ecce654fc9860a2ba80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9f6ae9d1c9530afe54838660d2a4ee13f76ba48c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_96ada7d0f1172c742f96bbc0e2585c81fc5d9646.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2e94f04967237164e7fe7123be360139a6a33e82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_23ef69aefeaa0e6cafa58f622eaff1d622ce55fb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_db535fd9b7ab27e47da3f753f6c968b4e744e820.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_92f039f367e398c9e77fea632e48cf6724c98aaa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
-        <dex dex="/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_47c9f8f3a0acc02e93b5808f31c8eb7a10f03780.jar" />
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_949784ad3534755956b40f90319bd7e6c57831a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_61199a14bb11d320a8b43e9e77c24535521754ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_5c72d3871bb4b3e2894afee5c76169969d77d8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_67b28ffd7119df4215991b3b13d8f0dbb7f976d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_89505990a37e77ed4c66ef27428bfa808c3291d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_95a758dc839e6e7f4ee5592999ff572f02779c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ca57411db0d74eb36d18efdef5ba620c2a323515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6453b7660d6cb48b4457870245e113121c41f293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0f6962f7863f165f2c14430d725d0a3cdb9bb8f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ff2f7692bf4a021239677d7a8c3660801f7503b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_1ad0372768f072d3e676314f7cce6acb05d77df4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_0fc22599991765a570d50932b24ec1f50902cb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e78bb3ddf3e11c22e4ff457b532beefee99a88eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_09bca487e438599b1564f4788d53a3e386381a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_aed037f0d5bd84f668624d17c3e2e54310bc08c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_858e401be6df4e84b8862dedcc06f054efd29684.jar" />
     </item>
 
 </items>

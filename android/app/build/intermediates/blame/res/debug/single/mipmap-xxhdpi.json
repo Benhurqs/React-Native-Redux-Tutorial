@@ -6,5 +6,9 @@
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

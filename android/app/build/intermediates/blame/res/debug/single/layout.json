@@ -12,20 +12,12 @@
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
@@ -36,20 +28,8 @@
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -76,28 +56,16 @@
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_frame.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_title.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -108,40 +76,12 @@
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/fps_view.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
@@ -152,84 +92,68 @@
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_title.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/fps_view.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -240,16 +164,20 @@
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_view.xml"
+    },
+    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/dev_loading_view.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -268,6 +196,254 @@
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
     },
@@ -284,22 +460,6 @@
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
     },
@@ -308,23 +468,27 @@
         "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/res/layout/redbox_item_frame.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/benhur.souza/projects/testes/ReduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/home/benhur.souza/projects/testes/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/benhursouza/reactNative/React-Native-Redux-Tutorial/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
     }
 ]

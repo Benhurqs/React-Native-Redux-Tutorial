@@ -1,7 +1,7 @@
 export const DATA_AVAILABLE = 'DATA_AVAILABLE';
 
-import Discography from '../discography.json';
-import Artists from '../artists.json';
+import Discography from '../mock/discography.json';
+import Artists from '../mock/artists.json';
 
 export function getDiscography(){
     return (dispatch) => {
@@ -17,6 +17,6 @@ export function getArtists(){
         setTimeout(() => {
             var mockData = Artists;
             dispatch({type: DATA_AVAILABLE, data: mockData});
-        }, 1500);
+        }, 1000);
     }
 }
